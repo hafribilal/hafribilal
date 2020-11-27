@@ -1,5 +1,9 @@
 ### Hi there I'm Bilal 👋
 
+I'm a Full Stack Developer from Morocco 🇲🇦 highly motivated, dynamic, persevering, rigorous. I am passionate about Web Developmen and open source. 🤗 I’m looking forward to collaborate on any Open Source project which I consider interesting and useful.
+
+📒 I try to post as frequently as I can (crossposting to dev.to). Everything I post is tech related and about things I find interesting to explain or to make others know about it.
+
 <!--
 **hafribilal/hafribilal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
