@@ -23,6 +23,8 @@ Here are some ideas to get more close view to me:
 - ⚡ Fun fact: I love to draw and play guitar / drums
 -->
 
+[![Spotify](https://spotify-now-playing.hafribilal.vercel.app/api/spotify)](https://open.spotify.com/user/hafribilal)
+
 ### Connect with me:
 
 [<img align="left" alt="hafribilal | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
