@@ -23,7 +23,10 @@ Here are some ideas to get more close view to me:
 - ⚡ Fun fact: I love to draw and play guitar / drums
 -->
 
-[![Spotify](https://spotify-now-playing.hafribilal.vercel.app/api/spotify)](https://open.spotify.com/user/hafribilal)
+### Spotify Playing 🎧
+
+[<img src="https://spotify-now-playing.hafribilal.vercel.app/api/spotify" alt="Bilal's Spotify Playing" width="350" />](https://open.spotify.com/user/hafribilal)
+
 
 ### Connect with me:
 
