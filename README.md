@@ -4,11 +4,8 @@
 
 <p>📒 I try to post as frequently as I can (crossposting to dev.to). Everything I post is tech related and about things I find interesting to explain or to make others know about it.</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hafribilal&label=Profile%20views&color=0e75b6&style=flat" alt="hafribilal" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hafribilal" alt="hafribilal" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/hafribilal" target="blank"><img src="https://img.shields.io/twitter/follow/hafribilal?logo=twitter&style=for-the-badge" alt="hafribilal" /></a> </p>
 
 - 🔭 I’m currently working on **Templates Store**
 
@@ -28,17 +25,17 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://twitter.com/hafribilal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="hafribilal" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/hafribilal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="hafribilal" height="30" width="40" /></a>
-  <a href="https://instagram.com/hafribilal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="hafribilal" height="30" width="40" /></a>
-  <a href="https://facebook.com/hafribilal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="hafribilal" height="30" width="40" /></a>
-  <a href="https://dribbble.com/hafribilal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="hafribilal" height="30" width="40" /></a>
-  <a href="https://www.behance.net/hafribilal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="hafribilal" height="30" width="40" /></a>
-  <a href="https://stackoverflow.com/users/hafribilal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="hafribilal" height="30" width="40" /></a>
-  <a href="https://codepen.io/hafribilal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="hafribilal" height="30" width="40" /></a>
-  <a href="https://dev.to/hafribilal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="hafribilal" height="30" width="40" /></a>
-  <a href="https://medium.com/@hafribilal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@hafribilal" height="30" width="40" /></a>
-  <a href="https://www.codechef.com/users/hafribilal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="hafribilal" height="30" width="40" /></a>
+  <a href="https://twitter.com/hafribilal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="hafribilal" height="20" width="30" /></a>
+  <a href="https://linkedin.com/in/hafribilal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="hafribilal" height="20" width="30" /></a>
+  <a href="https://instagram.com/hafribilal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="hafribilal" height="20" width="30" /></a>
+  <a href="https://facebook.com/hafribilal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="hafribilal" height="20" width="30" /></a>
+  <a href="https://dribbble.com/hafribilal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="hafribilal" height="20" width="30" /></a>
+  <a href="https://www.behance.net/hafribilal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="hafribilal" height="20" width="30"" /></a>
+  <a href="https://stackoverflow.com/users/hafribilal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="hafribilal" height="20" width="30" /></a>
+  <a href="https://codepen.io/hafribilal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="hafribilal" height="20" width="30" /></a>
+  <a href="https://dev.to/hafribilal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="hafribilal" height="20" width="30" /></a>
+  <a href="https://medium.com/@hafribilal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@hafribilal" height="20" width="30" /></a>
+  <a href="https://www.codechef.com/users/hafribilal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="hafribilal" height="20" width="30" /></a>
 </p>
 
   <h3 align="left">Languages and Tools:</h3>
@@ -171,5 +168,5 @@
       <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="30" height="30" />
     </a>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hafribilal&show_icons=true&locale=en&layout=compact" alt="hafribilal" /></p>
+<p align="right"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hafribilal&show_icons=true&locale=en&layout=compact" alt="hafribilal" /></p>
 
