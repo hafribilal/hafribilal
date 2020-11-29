@@ -43,7 +43,6 @@
 
   <h3 align="left">Languages and Tools:</h3>
   <p align="left">
-    <h4>Programming Languages</h4>
     <!-- C -->
     <a href="https://www.cprogramming.com/" target="_blank">
       <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40" />
@@ -76,7 +75,7 @@
     <a href="https://dart.dev" target="_blank">
       <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40" />
     </a>
-    <h4>Frontend Development</h4>
+    <br>
     <!-- HTML 5 -->
     <a href="https://www.w3.org/html/" target="_blank">
       <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
@@ -97,7 +96,11 @@
     <a href="https://bulma.io/" target="_blank">
       <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="40" height="40" />
     </a>
-    <h4>Backend Development</h4>
+    <br>
+    <!-- .Net framework -->
+    <a href="https://dotnet.microsoft.com/" target="_blank">
+      <img src="https://devicons.github.io/devicon/devicon.git/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40" />
+    </a>
     <!-- Laravel -->
     <a href="https://laravel.com/" target="_blank">
       <img src="https://devicons.github.io/devicon/devicon.git/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40" />
@@ -106,11 +109,6 @@
     <a href="https://www.djangoproject.com/" target="_blank">
       <img src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg" alt="django" width="40" height="40" />
     </a>
-    <!-- .Net framework -->
-    <a href="https://dotnet.microsoft.com/" target="_blank">
-      <img src="https://devicons.github.io/devicon/devicon.git/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40" />
-    </a>
-    <h4>Mobile Development</h4>
     <!-- Android -->
     <a href="https://developer.android.com" target="_blank">
       <img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40" />
@@ -123,12 +121,11 @@
     <a href="https://flutter.dev" target="_blank">
       <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40" />
     </a>
-    <h4>DataBases</h4>
+    <br>
     <!-- MySQL -->
     <a href="https://www.mysql.com/" target="_blank">
       <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
     </a>
-    <h4>Devops</h4>
     <!-- Azure -->
     <a href="https://azure.microsoft.com/en-in/" target="_blank">
       <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40" />
@@ -145,15 +142,11 @@
     <a href="https://www.gnu.org/software/bash/" target="_blank">
       <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40" />
     </a>
-    <!-- Circleci -->
-    <a href="https://circleci.com" target="_blank">
-      <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40" />
-    </a>
     <!-- GIT -->
     <a href="https://git-scm.com/" target="_blank">
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
     </a>
-    <h4>Softwares</h4>
+    <br>
     <!-- Adobe Illustrator -->
     <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank">
       <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40" />
@@ -179,13 +172,5 @@
       <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40" />
     </a>
 
-    <h4>Operational system's</h4>
-    <!-- Linux -->
-    <a href="https://www.linux.org/" target="_blank">
-      <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
-    </a>
-  </p>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hafribilal&show_icons=true&locale=en&layout=compact" alt="hafribilal" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hafribilal&show_icons=true&locale=en" alt="hafribilal" /></p>
