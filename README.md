@@ -1,29 +1,40 @@
-<h1>Hi there, I'm Bilal 👋🏼</h1>
-<h3 align="center">A passionate frontend developer from Morocco 🇲🇦</h3>
-<p>highly motivated, dynamic, persevering, rigorous. I am passionate about Web Development and open source. 🤗 I’m looking forward to collaborate on any Open Source project which I consider interesting and useful.</p>
+# Hi, I'm Bilal 👋
+**Tech Lead | Software Engineer | Systems Architect**
 
-<p>📒 I try to post as frequently as I can (crossposting to dev.to). Everything I post is tech related and about things I find interesting to explain or to make others know about it.</p>
+I design and lead the development of **scalable, business‑critical systems** with a strong focus on architecture, maintainability, and real‑world impact. I specialize in turning complex business rules into clean, extensible software.
 
-<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hafribilal" alt="hafribilal" /></a> </p>
+---
 
+### 🛠 What I Do
+* **Technical Leadership:** Mentoring developers and making high-stakes architectural decisions.
+* **System Design:** Designing modular architectures for complex platforms (BPMN, Rules Engines, Workflows).
+* **Data Engineering:** Optimizing data models, complex queries, and persistence layers.
+* **Product Strategy:** Bridging the gap between messy business requirements and robust technical solutions.
 
-- 🔭 I’m currently working on **Language Center CRM**
+### 🚀 Active Builds
+* **ConverSuit:** A modular, omnichannel CRM and chat platform built for high-scale business conversions.
+* **DocVision:** A node-based computer vision workbench for document intelligence and automated processing.
+* **MosaïQ:** An AI-powered engine for generating intricate mosaic and pixel art.
 
-- 🌱 I’m currently learning **everything 🤣**
+### 💻 Tech Stack
+* **Backend:** Spring Boot, Java, Python, Go, NestJS
+* **Frontend:** Angular, TypeScript, Vue
+* **Data & Storage:** PostgreSQL, SQL Server, Supabase, Redis
+* **Architectures:** Clean Architecture, Modular Monoliths, Event-Driven Systems, BPMN
 
-- 👯 I’m looking to collaborate on **UI/UX Designers**
+---
 
-- 🤝 I’m looking for help with **Laravel project**
+### 🧠 Engineering Philosophy
+> *“Systems thinking, not feature chasing.”*
 
-- 👨‍💻 All of my projects are available at [hafribilal.github.io/](hafribilal.github.io/)
+* **Pragmatism over hype:** Choosing tools based on the problem, not the trend.
+* **Maintainability first:** Code is read much more often than it is written.
+* **Performance is a feature:** Not an afterthought.
+* **The CAP Reality:** Always balancing Consistency and Availability with architectural intent.
 
-- 📝 I regulary write articles on [dev.to](dev.to)
+---
 
-- 💬 Ask me about **Spring Boot / Angular**
+### 📍 Based in Morocco 🇲🇦
+🤝 **Open to collaboration** on serious, well-defined products and high-impact systems architecture.
 
-- 📫 How to reach me **hafribilal@gmail.com**
-
-
-<p align="right">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hafribilal&show_icons=true&locale=en&layout=compact" alt="hafribilal" /></p>
-
+[Portfolio](https://hafribilal.github.io/) • [LinkedIn](https://www.linkedin.com/in/hafribilal/) • [Dev.to](https://dev.to/hafribilal)
